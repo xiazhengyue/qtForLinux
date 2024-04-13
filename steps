@@ -1,0 +1,13 @@
+因为在线安装总是有网络失败的问题 所以选则offline安装
+目前Qt好像只支持Qt5.12.12能够下载offline Qt6只有商业账号能够下载offline
+账号：363118144@qq.com/xxxxxxxSu@
+参考youtube：https://www.youtube.com/watch?v=2kSFwPXauMg
+Download: https://www.qt.io/offline-installers
+Install environment:
+sudo apt-get install gcc
+sudo apt-get install g++
+sudo apt-get install make
+sudo apt-get install git
+Fix issues:
+sudo apt-get install libxcb-xinerama0
+sudo apt install mesa-commom-dev libglu1-mesa-dev
